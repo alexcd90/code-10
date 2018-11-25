@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-lsdksds
-342223112
-=======
 lsdksds21212121
->>>>>>> local 10.txt update
